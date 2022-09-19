@@ -10,6 +10,8 @@ Now I focus on studying frontend and backend technologies using javascript frame
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaderlangga99&langs_count=8)
 
+#Skill
+i haven't mastered it yet, it's just that i can use it
 
 ### Language
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
