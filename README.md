@@ -7,8 +7,7 @@ I am a trilogy student since 2021. got to know the world of programming while st
 Now I focus on studying frontend and backend technologies using javascript frameworks. I think it's good.
 
 ![image](https://github-readme-stats.vercel.app/api?username=muhammaderlangga99)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaderlangga99&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaderlangga99&langs_count=8&layout=compact)
 
 # Skill
 I haven't mastered it yet, it's just that i can use it
