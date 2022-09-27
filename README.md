@@ -38,7 +38,3 @@ I haven't mastered it yet, it's just that i can use it
 <a href="https://dev.to/muhammaderlangga99" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/muhammaderlangga99" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 <a href="https://www.facebook.com/Muhammad Erlangga" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" height="25"></a>&nbsp;
-
-# Badge
-
-[![@muhammaderlangga99's Holopin board](https://holopin.io/api/user/board?user=muhammaderlangga99)](https://holopin.io/@muhammaderlangga99)
